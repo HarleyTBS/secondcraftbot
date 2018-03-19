@@ -13,4 +13,4 @@ bot.on("ready", function() {
         message.reply("IP = (Not Released");
     }
 });
-bot.login(TOKEN).catch(console.log);
+bot.login(process.env.NDI0OTY2OTkwODM5NTQ1ODY4.DZCIDw.wLsL0cmXcTN_XscP1a16PlA5vGU);
